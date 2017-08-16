@@ -1,0 +1,65 @@
+body{
+		margin-top:7.5rem;
+	}
+	
+	.anchor{
+		all:revert;
+		color : #2f5572;
+	}
+	
+	a:hover{
+		color: white;	
+	}
+	
+	a{
+		color:white;
+	}
+	
+	
+	.form-control {height: auto;}
+	.form-check-input{padding-right: 20px;}
+	
+	.btn{
+		background-color: #2f5572;
+		color: white;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 1.25rem;
+		padding: 2rem 4.0rem;
+	}
+	
+	.btn-small {
+		padding : 1.2rem 3.2rem;
+	}
+	
+	.btn-login{
+		position:absolute;
+		left:80%;
+		bottom:80%;
+		color:white;
+	}
+	
+	.login { 
+		position:relative;
+	}
+	
+	.forms {
+		width : 30%; 
+		margin: 25px auto;
+	}
+	
+	.btn-diff {
+		text-align:center;
+		margin-left:17rem;
+		background-color: #e5651b;
+		margin-top:6rem;
+	}
+	
+	.btn-admin {
+		
+	}
+		
+
+	
+		
+		
